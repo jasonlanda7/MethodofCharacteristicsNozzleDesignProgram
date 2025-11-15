@@ -7,7 +7,7 @@
 
 ## 🧠 Overview
 
-This MATLAB program designs a **shock-free, minimum-length, axisymmetric bell nozzle** using the **Method of Characteristics (MOC)**.  
+This program designs a **shock-free, minimum-length, axisymmetric bell nozzle** using the **Method of Characteristics (MOC)**.  
 It computes the internal expansion region by tracing C⁺ and C⁻ characteristic lines, constructing a smooth wall contour that produces a **uniform, parallel exit flow**.
 
 All generated wall coordinate points can be **exported and imported directly into SolidWorks** or other CAD software to generate a 3D nozzle model.
