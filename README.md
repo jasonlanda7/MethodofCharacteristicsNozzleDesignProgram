@@ -25,6 +25,10 @@ All generated wall coordinate points can be **exported and imported directly int
   - Throat radius `TR`
 - Plots the nozzle shape and saves wall coordinates to Excel (`PARAMS.xlsx`)  
 - Compatible with **SolidWorks**, **Fusion360**, or any CAD system
+- The program runs under these key assumptions
+  - Constant specific heat ratio throughout nozzle
+  - Isentropic expansion under supersonic conditions (No Energy loss due to friction)
+  - constant entropy
 
 ---
 
